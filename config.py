@@ -13,9 +13,9 @@ BOT_TOKEN = getenv("BOT_TOKEN")
 
 # Bot and owner info
 OWNER_USERNAME = getenv("OWNER_USERNAME", "SHIVANSHDEVS")
-BOT_USERNAME = getenv("BOT_USERNAME", "SapnaMusicRobot")
+BOT_USERNAME = getenv("BOT_USERNAME", "SUKOON_MUSIC_VC_BOT")
 BOT_NAME = getenv("BOT_NAME", "SAPNA")
-ASSUSERNAME = getenv("ASSUSERNAME", "KHWAAISH_HOON")
+ASSUSERNAME = getenv("ASSUSERNAME", "ZIDDI")
 
 # MongoDB
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
@@ -31,7 +31,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 DEEP_API = getenv("DEEP_API")
 
 # Git
-UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/TEAM-KRITI/clonev2")
+UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/Arunraj6899/VIKASH_MUSIC")
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
